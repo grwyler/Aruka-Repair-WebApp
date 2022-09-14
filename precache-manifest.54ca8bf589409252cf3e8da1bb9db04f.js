@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82be37d75ae8e5ecdb70b1a5f4252b7d",
+    "revision": "1b6a354a401b2866bb1bd4cd2e64513a",
     "url": "/Aruka-Repair-WebApp/index.html"
   },
   {
-    "revision": "78589c04f8f07d38d3d9",
+    "revision": "80fc11e612363c2885b0",
     "url": "/Aruka-Repair-WebApp/static/css/main.4ecbd5e7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aruka-Repair-WebApp/static/js/2.736ddffb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78589c04f8f07d38d3d9",
-    "url": "/Aruka-Repair-WebApp/static/js/main.7c08f9eb.chunk.js"
+    "revision": "80fc11e612363c2885b0",
+    "url": "/Aruka-Repair-WebApp/static/js/main.62b9e832.chunk.js"
   },
   {
     "revision": "ffc2319a1f64ffce0670",
