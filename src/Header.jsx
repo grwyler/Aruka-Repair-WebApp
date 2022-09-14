@@ -12,7 +12,7 @@ export default function Header() {
         <ul>
           <li>
             <Link to="/">
-              <img alt="Carved Rock Fitness" src="/images/logo.jpg" />
+              <img alt="Aruka Repair" src="/images/logo.jpg" />
             </Link>
           </li>
           <li>
