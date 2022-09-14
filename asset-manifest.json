@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aruka-Repair-WebApp/static/css/main.4ecbd5e7.chunk.css",
+    "main.js": "/Aruka-Repair-WebApp/static/js/main.7c08f9eb.chunk.js",
+    "main.js.map": "/Aruka-Repair-WebApp/static/js/main.7c08f9eb.chunk.js.map",
+    "runtime-main.js": "/Aruka-Repair-WebApp/static/js/runtime-main.953a169c.js",
+    "runtime-main.js.map": "/Aruka-Repair-WebApp/static/js/runtime-main.953a169c.js.map",
+    "static/js/2.736ddffb.chunk.js": "/Aruka-Repair-WebApp/static/js/2.736ddffb.chunk.js",
+    "static/js/2.736ddffb.chunk.js.map": "/Aruka-Repair-WebApp/static/js/2.736ddffb.chunk.js.map",
+    "index.html": "/Aruka-Repair-WebApp/index.html",
+    "precache-manifest.a880335b8d5862a06c8c59b21451d971.js": "/Aruka-Repair-WebApp/precache-manifest.a880335b8d5862a06c8c59b21451d971.js",
+    "service-worker.js": "/Aruka-Repair-WebApp/service-worker.js",
+    "static/css/main.4ecbd5e7.chunk.css.map": "/Aruka-Repair-WebApp/static/css/main.4ecbd5e7.chunk.css.map",
+    "static/js/2.736ddffb.chunk.js.LICENSE.txt": "/Aruka-Repair-WebApp/static/js/2.736ddffb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.953a169c.js",
+    "static/js/2.736ddffb.chunk.js",
+    "static/css/main.4ecbd5e7.chunk.css",
+    "static/js/main.7c08f9eb.chunk.js"
+  ]
+}
