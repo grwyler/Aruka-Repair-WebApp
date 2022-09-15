@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41c71996d56af7ee6430a472b46a2a09",
+    "revision": "b16da6dbf481e687a11b19ee215d0bcc",
     "url": "/Aruka-Repair-WebApp/index.html"
   },
   {

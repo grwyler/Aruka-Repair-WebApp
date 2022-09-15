@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Aruka-Repair-WebApp/precache-manifest.cfe4f39687c643b757559e10f490b3ed.js"
+  "/Aruka-Repair-WebApp/precache-manifest.282afd367e670af80f122cbe65b89bca.js"
 );
 
 self.addEventListener('message', (event) => {
