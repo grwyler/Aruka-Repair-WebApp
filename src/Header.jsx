@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
+import logoJpg from "./images/logo.jpg";
 
 const activeStye = {
   color: "purple",
@@ -12,7 +13,7 @@ export default function Header() {
         <ul>
           <li>
             <Link to="/">
-              <img alt="Aruka Repair" src="/images/logo.jpg" />
+              <img alt="Aruka Repair" src={logoJpg} />
             </Link>
           </li>
           <li>

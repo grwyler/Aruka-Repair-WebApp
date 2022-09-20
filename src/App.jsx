@@ -7,6 +7,7 @@ import { Routes, Route } from "react-router-dom";
 import Detail from "./Detail";
 import Cart from "./Cart";
 import Checkout from "./Checkout";
+import About from "./About";
 import cartReducer from "./cartReducer";
 
 let initialCart;
@@ -27,7 +28,17 @@ export default function App() {
         <Header />
         <main>
           <Routes>
-            <Route path="/" element={<h1>Welcome to Aruka Repair!</h1>} />
+            <Route
+              path="/"
+              element={
+                <div className="container">
+                  <h1>Welcome to Aruka Auto Repair!</h1>
+                  <h4 className="text-secondary">We Know Cars</h4>
+                  <div id="google-reviews"></div>
+                </div>
+              }
+            />
+            <Route path="/about" element={<About />}></Route>
             {/* <Route path="/:category" element={<Products />} />
             <Route
               path="/:category/:id"
