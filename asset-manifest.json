@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/Aruka-Repair-WebApp/static/css/main.4ecbd5e7.chunk.css",
-    "main.js": "/Aruka-Repair-WebApp/static/js/main.1606cc84.chunk.js",
-    "main.js.map": "/Aruka-Repair-WebApp/static/js/main.1606cc84.chunk.js.map",
+    "main.js": "/Aruka-Repair-WebApp/static/js/main.a1411704.chunk.js",
+    "main.js.map": "/Aruka-Repair-WebApp/static/js/main.a1411704.chunk.js.map",
     "runtime-main.js": "/Aruka-Repair-WebApp/static/js/runtime-main.953a169c.js",
     "runtime-main.js.map": "/Aruka-Repair-WebApp/static/js/runtime-main.953a169c.js.map",
-    "static/js/2.faab2d75.chunk.js": "/Aruka-Repair-WebApp/static/js/2.faab2d75.chunk.js",
-    "static/js/2.faab2d75.chunk.js.map": "/Aruka-Repair-WebApp/static/js/2.faab2d75.chunk.js.map",
+    "static/css/2.01c8686a.chunk.css": "/Aruka-Repair-WebApp/static/css/2.01c8686a.chunk.css",
+    "static/js/2.1743821f.chunk.js": "/Aruka-Repair-WebApp/static/js/2.1743821f.chunk.js",
+    "static/js/2.1743821f.chunk.js.map": "/Aruka-Repair-WebApp/static/js/2.1743821f.chunk.js.map",
     "index.html": "/Aruka-Repair-WebApp/index.html",
-    "precache-manifest.282afd367e670af80f122cbe65b89bca.js": "/Aruka-Repair-WebApp/precache-manifest.282afd367e670af80f122cbe65b89bca.js",
+    "precache-manifest.d9169ffc92cf39a11cd058a1415d3336.js": "/Aruka-Repair-WebApp/precache-manifest.d9169ffc92cf39a11cd058a1415d3336.js",
     "service-worker.js": "/Aruka-Repair-WebApp/service-worker.js",
+    "static/css/2.01c8686a.chunk.css.map": "/Aruka-Repair-WebApp/static/css/2.01c8686a.chunk.css.map",
     "static/css/main.4ecbd5e7.chunk.css.map": "/Aruka-Repair-WebApp/static/css/main.4ecbd5e7.chunk.css.map",
-    "static/js/2.faab2d75.chunk.js.LICENSE.txt": "/Aruka-Repair-WebApp/static/js/2.faab2d75.chunk.js.LICENSE.txt",
+    "static/js/2.1743821f.chunk.js.LICENSE.txt": "/Aruka-Repair-WebApp/static/js/2.1743821f.chunk.js.LICENSE.txt",
     "static/media/logo.jpg": "/Aruka-Repair-WebApp/static/media/logo.f5d4caab.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.953a169c.js",
-    "static/js/2.faab2d75.chunk.js",
+    "static/css/2.01c8686a.chunk.css",
+    "static/js/2.1743821f.chunk.js",
     "static/css/main.4ecbd5e7.chunk.css",
-    "static/js/main.1606cc84.chunk.js"
+    "static/js/main.a1411704.chunk.js"
   ]
 }
