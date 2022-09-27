@@ -12,14 +12,9 @@ export default function Header() {
       <nav>
         <ul>
           <li>
-            <Link to="/">
+            <Link to="/Aruka-Repair-WebApp">
               <img alt="Aruka Repair" src={logoJpg} />
             </Link>
-          </li>
-          <li>
-            <NavLink activeStyle={activeStye} to="/services">
-              Services
-            </NavLink>
           </li>
           <li>
             <NavLink activeStyle={activeStye} to="/about">

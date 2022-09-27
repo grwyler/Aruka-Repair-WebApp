@@ -64,7 +64,7 @@ export default function App() {
         <main className="p-0">
           <Routes>
             <Route
-              path="/"
+              path="/Aruka-Repair-WebApp"
               element={
                 <Carousel
                   autoPlay
