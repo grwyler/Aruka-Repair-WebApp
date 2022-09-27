@@ -3,8 +3,8 @@ import React from "react";
 export default function About() {
   return (
     <div className="container">
-      <h1 className="text-primary">About Us</h1>
-      <h4 className="text-secondary">
+      <h1 style={{ color: "#025774" }}>About Us</h1>
+      <h4 style={{ color: "#8b324d" }}>
         Aruka Repair is a small, family-owned automobile repair shop. We provide
         quality, affordable repairs to the people of our community. We
         understand that not everyone can afford to have their car towed to the
