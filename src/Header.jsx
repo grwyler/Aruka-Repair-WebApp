@@ -3,7 +3,7 @@ import { Link, NavLink } from "react-router-dom";
 import logoJpg from "./images/logo.jpg";
 
 const activeStye = {
-  color: "purple",
+  color: "#8b324d",
 };
 
 export default function Header() {
